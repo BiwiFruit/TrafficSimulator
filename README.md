@@ -7,7 +7,7 @@ mathematically rigorous consistency enforced between the two scales.
 Companion implementation to a paper submitted to the Australasian Transport Research
 Forum (ATRF) 2026.
 
-**[▶ Launch the live simulator](https://ybing7412-coder.github.io/TrafficSimulator/)**
+**[▶ Launch the live simulator](https://BiwiFruit.github.io/TrafficSimulator/)**
 
 Quick links to this file:
 
